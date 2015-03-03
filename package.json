@@ -1,0 +1,14 @@
+{
+	"name" : "screen-sharing",
+	"version" : "0.0.1",
+	"main" : "app.js",
+	"dependencies" : {
+		"socket.io" : "*",
+		"express" : "*",
+		"bootstrap" : "*",
+		"jquery" : "*",
+		"ejs" : "*"
+	},
+	"author" : "kwentinn@gmail.com",
+	"description" : "A basic screen-sharing app with node.js, socket.io and HTML5's getUserMedia method."
+}
